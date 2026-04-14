@@ -1,0 +1,6 @@
+@GameNight_HostAddress = http://localhost:5204
+
+GET {{GameNight_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
