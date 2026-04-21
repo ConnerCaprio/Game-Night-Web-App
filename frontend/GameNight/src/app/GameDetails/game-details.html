@@ -1,0 +1,28 @@
+<div class="game-details-container">
+    <p *ngIf="!game">Loading game details...</p>
+    <div *ngIf="game">
+
+    <h1>{{ game?.name }}</h1>
+    <p><strong>Rules: </strong>{{ game?.rules }}</p>
+    <button (click)="clearSuggestion()">Clear Suggestion</button>
+
+    <div class="pieces-container">
+        <div class="piece-box" *ngFor="let piece of game?.pieces | keyvalue">
+
+            <h2>{{ piece.key }}</h2>
+
+            <!-- Below is code to just list out all of the suggestions for the category -->
+            <!-- <ul>
+                <li *ngFor="let rule of piece.value">
+                {{ rule }}
+                </li>
+            </ul> -->
+            <button (click)="displaySuggestionFromCategory(piece.key)">Get Suggestion</button>
+        </div>
+        
+    </div>
+
+    </div>
+
+    <strong>Suggestion: </strong>{{ currentSuggestion }}
+</div>

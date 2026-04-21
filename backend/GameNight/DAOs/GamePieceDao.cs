@@ -55,7 +55,13 @@ namespace GameNight.DAOs
 
         public async Task<List<GamePieceEntity>> GetGamePiecesByGame(string game)
         {
-            return _gamePieces.Where(g => g.GamesIncludedIn.Contains(game)).ToList();
+            return _gamePieces
+                .Where(g => g.GamesIncludedIn
+                    .Any(name =>
+                        name.Replace(" ", "").ToLowerInvariant() ==
+                        game.Replace(" ", "").ToLowerInvariant()
+                    ))
+                .ToList();
         }
     }
 }

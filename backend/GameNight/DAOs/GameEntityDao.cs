@@ -9,7 +9,7 @@ namespace GameNight.DAOs
             
             // Implementation to retrieve game entities from a database
             new GameEntity(){
-                Guid = Guid.NewGuid(),
+                Id = "KingsCup",
                 DateAdded = DateTime.UtcNow,
                 Name = "Kings Cup",
                 Rules = "Players take turns drawing cards and performing actions based on the card drawn. The game continues until all cards have been drawn.",
@@ -17,7 +17,7 @@ namespace GameNight.DAOs
                 MinPlayers = 3
             },
             new GameEntity(){
-                Guid = Guid.NewGuid(),
+                Id = "CheersToTheGovernor",
                 DateAdded = DateTime.UtcNow,
                 Name = "Cheers to the Governor",
                 Rules = "Players take turns saying incremental numbers or applied rules. Once 21 is reached a number is replaced with a new rule from the last player to speak",
@@ -34,7 +34,7 @@ namespace GameNight.DAOs
 
         public async Task<GameEntity> GetGameEntityByName(string title)
         {
-            return _gameEntities.FirstOrDefault(g => g.Name == title);
+            return _gameEntities.FirstOrDefault(g => g.Id == title);
         }
     }
 }

@@ -1,0 +1,19 @@
+<main>
+  <div class="container ">
+    <div class="centerChildren">
+      <div class="centerBox">
+        <h1>Welcome to GameNight!</h1>
+        <p>A site for games when you're on the go.<br> Select a game you'd like to play.</p>
+      </div>
+    </div>
+    
+    <div>
+      <div class="game-buttons">
+        @for(game of games; track game.sluggedName) {
+          <button class="gameButton" type="button" [routerLink]="['/game', game.sluggedName]">{{ game.name }}</button>
+        }
+      </div>
+    </div>
+  </div>
+    
+</main>

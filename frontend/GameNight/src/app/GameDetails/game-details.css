@@ -1,0 +1,21 @@
+.pieces-container {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.piece-box {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 12px;
+  width: 200px;
+  background: #f9f9f9;
+}
+
+.piece-box h2 {
+  margin-top: 0;
+}
+
+.game-details-container {
+    padding: 2rem;
+}
