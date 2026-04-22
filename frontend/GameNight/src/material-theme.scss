@@ -1,0 +1,29 @@
+@use '@angular/material' as mat;
+
+html {
+  height: 100%;
+  @include mat.theme((
+    color: (
+      primary: mat.$azure-palette,
+      tertiary: mat.$violet-palette,
+    ),
+    typography: Roboto,
+    density: 0,
+  ));
+
+  /* Map Material's system vars to your palette */
+  --mat-sys-primary: var(--color-primary);
+  --mat-sys-secondary: var(--color-accent);
+  --mat-sys-tertiary: var(--color-tertiary);
+  --mat-sys-surface: var(--color-surface);
+  --mat-sys-background: var(--color-bg);
+}
+
+body {
+  color-scheme: light;
+  background-color: var(--color-bg);
+  color: var(--color-text-primary);
+  font: var(--mat-sys-body-medium);
+  margin: 0;
+  height: 100%;
+}

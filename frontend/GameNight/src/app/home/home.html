@@ -1,0 +1,28 @@
+<div class="home-container">
+  <div class="home-header">
+    <h1>Game Night</h1>
+    <p class="subtitle">Pick a game to get started</p>
+  </div>
+
+  <div class="game-list">
+    <div
+      *ngFor="let game of games"
+      class="game-card"
+      [routerLink]="['/game', game.sluggedName]"
+    >
+      <div class="game-card-info">
+        <div class="game-card-name">{{ game.name }}</div>
+        <div class="game-card-meta">
+          {{ game.minPlayers }}–{{ game.maxPlayers }} players
+          <!-- &nbsp;·&nbsp; -->
+          ~{{ game.playTimeMinutes }} min
+        </div>
+      </div>
+      <div class="game-card-arrow">›</div>
+    </div>
+  </div>
+
+  <div *ngIf="games.length === 0" class="empty-state">
+    Loading games...
+  </div>
+</div>

@@ -1,53 +1,19 @@
 ﻿using GameNight.Entities;
+using System.Text.Json;
 
 namespace GameNight.DAOs
 {
     public class GamePieceDao
     {
-        private List<GamePieceEntity> _gamePieces = new List<GamePieceEntity>()
-            {
-                new GamePieceEntity
-                {
-                    Id = Guid.NewGuid(),
-                    DateAdded = DateTime.UtcNow,
-                    GamesIncludedIn = new[] { "Kings Cup" },
-                    value = "Never have I ever used Gemini AI",
-                    Category = "Jack"
-                },
-                new GamePieceEntity
-                {
-                    Id = Guid.NewGuid(),
-                    DateAdded = DateTime.UtcNow,
-                    GamesIncludedIn = new[] { "Kings Cup" },
-                    value = "Never have I ever written a song more than 4 lines",
-                    Category = "Jack"
-                },
-                new GamePieceEntity
-                {
-                    Id = Guid.NewGuid(),
-                    DateAdded = DateTime.UtcNow,
-                    GamesIncludedIn = new[] { "Kings Cup" },
-                    value = "Mates are reversed",
-                    Category = "King"
-                },
-                new GamePieceEntity
-                {
-                    Id = Guid.NewGuid(),
-                    DateAdded = DateTime.UtcNow,
-                    GamesIncludedIn = new[] { "Kings Cup" },
-                    value = "Hockey Teams",
-                    Category = "10"
-                },
-                new GamePieceEntity
-                {
-                    Id = Guid.NewGuid(),
-                    DateAdded = DateTime.UtcNow,
-                    GamesIncludedIn = new[] { "Cheers to the Governor" },
-                    value = "Moo",
-                    Category = "Rules"
-                }
+        private readonly List<GamePieceEntity> _gamePieces;
 
-            };
+        public GamePieceDao(IWebHostEnvironment env)
+        {
+            var filePath = Path.Combine(env.ContentRootPath, "Data", "gamePieces.json");
+            var json = File.ReadAllText(filePath);
+            _gamePieces = JsonSerializer.Deserialize<List<GamePieceEntity>>(json)
+                            ?? new List<GamePieceEntity>();
+        }
         public async Task<List<GamePieceEntity>> GetGamePieceEntities()
         {
             return _gamePieces;
@@ -55,7 +21,13 @@ namespace GameNight.DAOs
 
         public async Task<List<GamePieceEntity>> GetGamePiecesByGame(string game)
         {
-            return _gamePieces.Where(g => g.GamesIncludedIn.Contains(game)).ToList();
+            return _gamePieces
+                .Where(g => g.GamesIncludedIn
+                    .Any(name =>
+                        name.Replace(" ", "").ToLowerInvariant() ==
+                        game.Replace(" ", "").ToLowerInvariant()
+                    ))
+                .ToList();
         }
     }
 }

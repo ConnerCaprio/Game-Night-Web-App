@@ -2,7 +2,7 @@
 {
     public class GameEntity
     {
-        public Guid Guid { get; set; }
+        public required string Id { get; set; }
         public required string Name { get; set; }
         public string? Rules { get; set; }
         public DateTime DateAdded { get; set; }

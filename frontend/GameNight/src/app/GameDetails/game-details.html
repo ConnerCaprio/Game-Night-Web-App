@@ -1,0 +1,65 @@
+<!-- <div class="game-details-container">
+    <p *ngIf="!game">Loading game details...</p>
+    <div *ngIf="game">
+
+    <h1>{{ game?.name }}</h1>
+    <p><strong>Rules: </strong>{{ game?.rules }}</p>
+    <button (click)="clearSuggestion()">Clear Suggestion</button>
+
+    <div class="pieces-container">
+        <div class="piece-box" *ngFor="let piece of game?.pieces | keyvalue">
+
+            <h2>{{ piece.key }}</h2>
+
+            
+            <button (click)="displaySuggestionFromCategory(piece.key)">Get Suggestion</button>
+        </div>
+        
+    </div>
+
+    </div>
+
+    <strong>Suggestion: </strong>{{ currentSuggestion }}
+</div> -->
+<div class="details-container">
+
+  <div class="top-bar">
+    <a routerLink="/" class="back-btn">← Games</a>
+    <span class="game-title">{{ game?.name }}</span>
+    <button class="rules-btn" (click)="rulesOpen = !rulesOpen">Rules</button>
+  </div>
+
+  <div class="rules-panel" *ngIf="rulesOpen">
+    <p>{{ game?.rules }}</p>
+  </div>
+
+  <div class="meta" *ngIf="game">
+    {{ game.minPlayers }}–{{ game.maxPlayers }} players &nbsp;·&nbsp; ~{{ game.playTimeMinutes }} min
+  </div>
+
+  <p class="hint">Tap a card to get a suggestion</p>
+
+  <div class="piece-grid" *ngIf="game">
+    <button
+      *ngFor="let category of objectKeys(game.pieces)"
+      class="piece-btn"
+      [class.active]="activeCategory === category"
+      (click)="selectCategory(category)"
+    >
+      {{ category }}
+    </button>
+  </div>
+
+  <div class="sheet-backdrop" *ngIf="currentSuggestion" (click)="clearSuggestion()">
+    <div class="bottom-sheet" (click)="$event.stopPropagation()">
+      <div class="sheet-handle"></div>
+      <div class="sheet-label">{{ activeCategory }}</div>
+      <div class="sheet-suggestion">{{ currentSuggestion }}</div>
+      <div class="sheet-actions">
+        <button class="btn-primary" (click)="selectCategory(activeCategory)">Another suggestion</button>
+        <button class="btn-close" (click)="clearSuggestion()">✕</button>
+      </div>
+    </div>
+  </div>
+
+</div>

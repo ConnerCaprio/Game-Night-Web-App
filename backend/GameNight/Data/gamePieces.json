@@ -1,0 +1,911 @@
+[
+  {
+    "Id": 1,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Never have I ever used Gemini AI",
+    "Category": "Jack"
+  },
+  {
+    "Id": 2,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Never have I ever written a song more than 4 lines",
+    "Category": "Jack"
+  },
+  {
+    "Id": 3,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Mates are reversed",
+    "Category": "King"
+  },
+  {
+    "Id": 4,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Hockey Teams",
+    "Category": "Ten"
+  },
+  {
+    "Id": 5,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Moo",
+    "Category": "Rules"
+  },
+  {
+    "Id": 6,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "text their ex",
+    "Category": "Ace"
+  },
+  {
+    "Id": 7,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "most embarrasing drunk moment",
+    "Category": "Nine-Truth"
+  },
+  {
+    "Id": 8,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "person to your left texts someone randomly on phone",
+    "Category": "Nine-Dare"
+  },
+  {
+    "Id": 9,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "fast food chains",
+    "Category": "Ten"
+  },
+  {
+    "Id": 10,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "lied on a resume",
+    "Category": "Jack"
+  },
+  {
+    "Id": 11,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "who here do you trust the least",
+    "Category": "Queen"
+  },
+  {
+    "Id": 12,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "drink if you say \"drink\"",
+    "Category": "King"
+  },
+  {
+    "Id": 13,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "kicked out of a bar",
+    "Category": "Ace"
+  },
+  {
+    "Id": 14,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "biggest lie you've told in the last month",
+    "Category": "Nine-Truth"
+  },
+  {
+    "Id": 15,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "do an impression of someone there",
+    "Category": "Nine-Dare"
+  },
+  {
+    "Id": 16,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "netflex originals",
+    "Category": "Ten"
+  },
+  {
+    "Id": 17,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "stalked someone on social media",
+    "Category": "Jack"
+  },
+  {
+    "Id": 18,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "biggest red flag",
+    "Category": "Queen"
+  },
+  {
+    "Id": 19,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "non-dominant hand only (for anything)",
+    "Category": "King"
+  },
+  {
+    "Id": 20,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "survive a zombie apocalypse",
+    "Category": "Ace"
+  },
+  {
+    "Id": 21,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "something illegal you've done",
+    "Category": "Nine-Truth"
+  },
+  {
+    "Id": 22,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "post something on social media now",
+    "Category": "Nine-Dare"
+  },
+  {
+    "Id": 23,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "types of alcohol",
+    "Category": "Ten"
+  },
+  {
+    "Id": 24,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "ghosted someone",
+    "Category": "Jack"
+  },
+  {
+    "Id": 25,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "who would you least want to be stuck on an island with",
+    "Category": "Queen"
+  },
+  {
+    "Id": 26,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "no using people's names",
+    "Category": "King"
+  },
+  {
+    "Id": 27,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "forget their own wedding anniversary",
+    "Category": "Ace"
+  },
+  {
+    "Id": 28,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "biggest turn off",
+    "Category": "Nine-Truth"
+  },
+  {
+    "Id": 29,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "no handed shot",
+    "Category": "Nine-Dare"
+  },
+  {
+    "Id": 30,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Countries in __ continent",
+    "Category": "Ten"
+  },
+  {
+    "Id": 31,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "had a crush on someone in your friend group (ever)",
+    "Category": "Jack"
+  },
+  {
+    "Id": 32,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "what's your worst habit",
+    "Category": "Queen"
+  },
+  {
+    "Id": 33,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "no swearing",
+    "Category": "King"
+  },
+  {
+    "Id": 34,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "go viral",
+    "Category": "Ace"
+  },
+  {
+    "Id": 35,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "biggest turn on",
+    "Category": "Nine-Truth"
+  },
+  {
+    "Id": 36,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "speak in an accent for 2 rounds",
+    "Category": "Nine-Dare"
+  },
+  {
+    "Id": 37,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "car brands",
+    "Category": "Ten"
+  },
+  {
+    "Id": 38,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "blamed someone else after breaking something",
+    "Category": "Jack"
+  },
+  {
+    "Id": 39,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "what's your most toxic trait",
+    "Category": "Queen"
+  },
+  {
+    "Id": 40,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "drink if you use your phone",
+    "Category": "King"
+  },
+  {
+    "Id": 41,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "get arrested",
+    "Category": "Ace"
+  },
+  {
+    "Id": 42,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "who here do you trust the least",
+    "Category": "Nine-Truth"
+  },
+  {
+    "Id": 43,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "let someone go through your camera roll",
+    "Category": "Nine-Dare"
+  },
+  {
+    "Id": 44,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "video games before 2015",
+    "Category": "Ten"
+  },
+  {
+    "Id": 45,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "re-gifted a present",
+    "Category": "Jack"
+  },
+  {
+    "Id": 46,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "who has the worst taste in movies",
+    "Category": "Queen"
+  },
+  {
+    "Id": 47,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "no pointing",
+    "Category": "King"
+  },
+  {
+    "Id": 48,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "become a millionaire",
+    "Category": "Ace"
+  },
+  {
+    "Id": 49,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "give a lap dance",
+    "Category": "Nine-Dare"
+  },
+  {
+    "Id": 50,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Female celebrities",
+    "Category": "Ten"
+  },
+  {
+    "Id": 51,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "fallen asleep at a party",
+    "Category": "Jack"
+  },
+  {
+    "Id": 52,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "who has the worst taste in food",
+    "Category": "Queen"
+  },
+  {
+    "Id": 53,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "must toast to something every time you drink",
+    "Category": "King"
+  },
+  {
+    "Id": 54,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "cry during a movie",
+    "Category": "Ace"
+  },
+  {
+    "Id": 55,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "group chooses your next drink",
+    "Category": "Nine-Dare"
+  },
+  {
+    "Id": 56,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "male celebrities",
+    "Category": "Ten"
+  },
+  {
+    "Id": 57,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "flirted to get a free drink",
+    "Category": "Jack"
+  },
+  {
+    "Id": 58,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "would you rather get out of the shower always sweating or always freezing",
+    "Category": "Queen"
+  },
+  {
+    "Id": 59,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "no pronouns",
+    "Category": "King"
+  },
+  {
+    "Id": 60,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "get lost in their own city",
+    "Category": "Ace"
+  },
+  {
+    "Id": 61,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "things you pack for vacation",
+    "Category": "Ten"
+  },
+  {
+    "Id": 62,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "faked being asleep to avoid doing something",
+    "Category": "Jack"
+  },
+  {
+    "Id": 63,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "what gets you out of bed",
+    "Category": "Queen"
+  },
+  {
+    "Id": 64,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "red cards switch direction",
+    "Category": "King"
+  },
+  {
+    "Id": 65,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "get cut off at the bar",
+    "Category": "Ace"
+  },
+  {
+    "Id": 66,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "apps on everyone here's phone",
+    "Category": "Ten"
+  },
+  {
+    "Id": 67,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "hooked up with someone I regret",
+    "Category": "Jack"
+  },
+  {
+    "Id": 68,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "what career ending thing have you seen or heard about",
+    "Category": "Queen"
+  },
+  {
+    "Id": 69,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "mates are reversed",
+    "Category": "King"
+  },
+  {
+    "Id": 70,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "accidentally send a nude to the wrong person",
+    "Category": "Ace"
+  },
+  {
+    "Id": 71,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "things to not say on a first date",
+    "Category": "Ten"
+  },
+  {
+    "Id": 72,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "lied to get out of plans",
+    "Category": "Jack"
+  },
+  {
+    "Id": 73,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "sam jackson rule",
+    "Category": "King"
+  },
+  {
+    "Id": 74,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "start drama out of boredom",
+    "Category": "Ace"
+  },
+  {
+    "Id": 75,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "excuses for being late",
+    "Category": "Ten"
+  },
+  {
+    "Id": 76,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "kissed more than 1 person in 1 night",
+    "Category": "Jack"
+  },
+  {
+    "Id": 77,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "drink if someone can see your teeth",
+    "Category": "King"
+  },
+  {
+    "Id": 78,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "disappear without telling anyone",
+    "Category": "Ace"
+  },
+  {
+    "Id": 79,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "bad pickup lines",
+    "Category": "Ten"
+  },
+  {
+    "Id": 80,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "hooked up with a coworker",
+    "Category": "Jack"
+  },
+  {
+    "Id": 81,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "kesha rule. repeat the last thing you say",
+    "Category": "King"
+  },
+  {
+    "Id": 82,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "get caught in a lie",
+    "Category": "Ace"
+  },
+  {
+    "Id": 83,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "lied about my body count",
+    "Category": "Jack"
+  },
+  {
+    "Id": 84,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "3 word sentences only",
+    "Category": "King"
+  },
+  {
+    "Id": 85,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "to have the highest number",
+    "Category": "Ace"
+  },
+  {
+    "Id": 86,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "used a razor",
+    "Category": "Jack"
+  },
+  {
+    "Id": 87,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "guess the suit before picking card. give/take drink if right. drink twice if forgot to pick",
+    "Category": "King"
+  },
+  {
+    "Id": 88,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "to be the worst in bed",
+    "Category": "Ace"
+  },
+  {
+    "Id": 89,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "been in a tesla",
+    "Category": "Jack"
+  },
+  {
+    "Id": 90,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "thumb rule with king as thumbmaster",
+    "Category": "King"
+  },
+  {
+    "Id": 91,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "to have a mid life crisis before 40",
+    "Category": "Ace"
+  },
+  {
+    "Id": 92,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "thumb rule but with foreheads hitting the table",
+    "Category": "King"
+  },
+  {
+    "Id": 93,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "cut themselves in the kitchen",
+    "Category": "Ace"
+  },
+  {
+    "Id": 94,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "talk in the 2nd person only. in honor of Jaqen H'ghar",
+    "Category": "King"
+  },
+  {
+    "Id": 95,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "everyone gives a new nickname to person to their left",
+    "Category": "King"
+  },
+  {
+    "Id": 96,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "little green man but if you catch someone you can add your green man to their cup",
+    "Category": "King"
+  },
+  {
+    "Id": 97,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "any eye contact = high five",
+    "Category": "King"
+  },
+  {
+    "Id": 98,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "only the minister of foreign affairs can speak with anyone not playing the game",
+    "Category": "King"
+  },
+  {
+    "Id": 99,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "drink master. can swap who drinks every time someone has to drink with another person",
+    "Category": "King"
+  },
+  {
+    "Id": 100,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "shit,bitch: start every sentence with shit and end every sentence with bitch",
+    "Category": "King"
+  },
+  {
+    "Id": 101,
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "every time king drinks he picks a squire to drink with him",
+    "Category": "King"
+  }
+]
