@@ -11,8 +11,8 @@ namespace GameNight.Services
     public class GetGamesService : IGetGamesService
     {
         private ILogger<GetGamesService> _logger;
-        private GameEntityDao _gameEntityDao = new GameEntityDao();
-        private GamePieceDao _gamePieceDao = new GamePieceDao();
+        private GameEntityDao _gameEntityDao;
+        private GamePieceDao _gamePieceDao;
         public GetGamesService(ILogger<GetGamesService> logger, GameEntityDao gameEntityDao, GamePieceDao gamePieceDao)
         {
             _logger = logger;

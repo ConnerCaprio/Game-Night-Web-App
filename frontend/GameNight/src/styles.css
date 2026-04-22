@@ -1,1 +1,25 @@
-/* You can add global styles to this file, and also import other style files */
+:root {
+  /* Primary palette — Coastal Dusk */
+  --color-primary:        #4a7fa5;
+  --color-primary-light:  #d6e8f4;
+  --color-primary-dark:   #2e5470;
+
+  --color-accent:         #c47f5e;
+  --color-accent-light:   #f5e0d5;
+  --color-accent-dark:    #8f5a3e;
+
+  --color-tertiary:       #8f7ab5;
+  --color-tertiary-light: #e8e2f5;
+  --color-tertiary-dark:  #5c4d80;
+
+  /* Surfaces & backgrounds */
+  --color-bg:             #f6f8fa;
+  --color-surface:        #ffffff;
+  --color-surface-alt:    #f0f4f8;
+  --color-border:         #dde4ec;
+
+  /* Text */
+  --color-text-primary:   #1a2535;
+  --color-text-secondary: #5a6a7e;
+  --color-text-hint:      #96a3b0;
+}

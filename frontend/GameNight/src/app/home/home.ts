@@ -3,10 +3,11 @@ import { RouterLink } from '@angular/router';
 import { GameService } from './../Services/game-service';
 import { CommonModule } from '@angular/common';
 import { Game } from '../shared/models/game-model';
+import { MatButtonModule } from '@angular/material/button';
 
 @Component({
   selector: 'app-home',
-  imports: [ CommonModule, RouterLink],
+  imports: [ CommonModule, RouterLink, MatButtonModule ],
   templateUrl: './home.html',
   styleUrl: './home.css',
 })

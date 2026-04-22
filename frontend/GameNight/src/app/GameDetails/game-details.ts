@@ -1,13 +1,13 @@
 import { Component, inject, OnInit, ChangeDetectorRef } from '@angular/core';
 import { GameService } from './../Services/game-service';
-import { ActivatedRoute } from '@angular/router';
+import { ActivatedRoute, RouterLink } from '@angular/router';
 import { GameWithPieces } from '../shared/models/game-with-pieces-model';
 import { CommonModule } from '@angular/common';
 
 
 @Component({
   selector: 'app-game-details',
-  imports: [CommonModule],
+  imports: [CommonModule, RouterLink],
   templateUrl: './game-details.html',
   styleUrl: './game-details.css',
 })
@@ -17,6 +17,10 @@ export class GameDetails implements OnInit {
   private cdr = inject(ChangeDetectorRef);
   game?: GameWithPieces;
   currentSuggestion = '';
+  rulesOpen = false;
+  activeCategory = '';
+  private pieceOrder = ['Ace', 'Nine-Truth', 'Nine-Dare', 'Ten', 'Jack', 'Queen', 'King'];
+
 
   constructor(private route: ActivatedRoute) {
   }
@@ -49,5 +53,16 @@ export class GameDetails implements OnInit {
 
   clearSuggestion() {
     this.currentSuggestion = '';
+  }
+
+  objectKeys(obj: object): string[] {
+    return Object.keys(obj).sort((a, b) => {
+      return this.pieceOrder.indexOf(a) - this.pieceOrder.indexOf(b);
+    });
+  }
+
+  selectCategory(category: string) {
+    this.activeCategory = category;
+    this.displaySuggestionFromCategory(category);
   }
 }
