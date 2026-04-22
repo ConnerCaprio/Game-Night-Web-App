@@ -16,5 +16,14 @@
     "PlayTimeMinutes": 60,
     "MinPlayers": 4,
     "MaxPlayers": 6
+  },
+  {
+    "Id": "Hypothetically",
+    "DateAdded": "2026-04-22T00:00:00Z",
+    "Name": "Hypothetically",
+    "Rules": "Players take turns pulling hypothetical scenarios and answering what or why they would do something. A max time limit per question is advised.",
+    "PlayTimeMinutes": 5,
+    "MinPlayers": 2,
+    "MaxPlayers": 10
   }
 ]
