@@ -5,6 +5,7 @@ import { response } from 'express';
 import { GetGamesResponse } from '../shared/models/getGamesResponseModel';
 import { Game } from '../shared/models/game-model';
 import { GameWithPieces } from '../shared/models/game-with-pieces-model';
+import { environment } from '../../environments/environment';
 
 
 @Injectable({
@@ -13,7 +14,7 @@ import { GameWithPieces } from '../shared/models/game-with-pieces-model';
 export class GameService {
   private http = inject(HttpClient);
 
-  private getGamesApiUrl = 'https://localhost:7064/GetGames';
+  private getGamesApiUrl = environment.apiUrl + '/GetGames';
 
    getGames(): Observable<Game[]> {
   return this.http.get<GetGamesResponse>(this.getGamesApiUrl).pipe(
