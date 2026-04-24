@@ -42,7 +42,7 @@
       "Cheers to the Governor"
     ],
     "value": "Moo",
-    "Category": "Rules"
+    "Category": "New Rules"
   },
   {
     "Id": 6,
@@ -1150,5 +1150,32 @@
     ],
     "value": "Would you rather have a third eye or a tail?",
     "Category": "Would you Rather"
+  },
+  {
+    "Id": 129,
+    "DateAdded": "2026-04-23T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Change direction of play",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 130,
+    "DateAdded": "2026-04-23T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Say a different number",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 131,
+    "DateAdded": "2026-04-23T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "High five someone",
+    "Category": "New Rules"
   }
 ]
