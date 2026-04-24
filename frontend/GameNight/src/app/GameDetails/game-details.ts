@@ -20,6 +20,7 @@ export class GameDetails implements OnInit {
   rulesOpen = false;
   activeCategory = '';
   private pieceOrder = ['Ace', 'Nine-Truth', 'Nine-Dare', 'Ten', 'Jack', 'Queen', 'King'];
+  private suggestionQueues: { [category: string]: string[] } = {};
 
 
   constructor(private route: ActivatedRoute) {
@@ -43,12 +44,23 @@ export class GameDetails implements OnInit {
   displaySuggestionFromCategory(category: string) {
     if (!this.game?.pieces) return;
 
-    const suggestions = this.game.pieces[category];
+    const allSuggestions = this.game.pieces[category];
+    if (!allSuggestions || allSuggestions.length === 0) return;
 
-    if (!suggestions || suggestions.length === 0) return;
+    // If queue is empty or doesn't exist, refill and shuffle it
+    if (!this.suggestionQueues[category] || this.suggestionQueues[category].length === 0) {
+      this.suggestionQueues[category] = this.shuffle([...allSuggestions]);
+    }
 
-    const randomIndex = Math.floor(Math.random() * suggestions.length);
-    this.currentSuggestion = suggestions[randomIndex];
+    this.currentSuggestion = this.suggestionQueues[category].pop()!;
+  }
+
+  private shuffle(arr: string[]): string[] {
+    for (let i = arr.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+    return arr;
   }
 
   clearSuggestion() {

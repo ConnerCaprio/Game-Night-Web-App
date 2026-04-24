@@ -77,7 +77,7 @@
     "GamesIncludedIn": [
       "Kings Cup"
     ],
-    "value": "fast food chains",
+    "value": "fast food chains (with drive thrus)",
     "Category": "Ten"
   },
   {
@@ -1177,5 +1177,54 @@
     ],
     "value": "High five someone",
     "Category": "New Rules"
+  },
+  {
+    "Id": 132,
+    "DateAdded": "2026-04-23T00:00:00Z",
+    "GamesIncludedIn": [ "Trivia" ],
+    "value": "What is the only country that borders both the Mediterranean Sea and the Atlantic Ocean? --Answer: Spain",
+    "Category": "General"
+  },
+  {
+    "Id": 133,
+    "DateAdded": "2026-04-23T00:00:00Z",
+    "GamesIncludedIn": [ "Trivia" ],
+    "value": "What does the “HTTP” stand for in a website URL? --Answer: HyperText Transfer Protocol",
+    "Category": "General"
+  },
+  {
+    "Id": 134,
+    "DateAdded": "2026-04-23T00:00:00Z",
+    "GamesIncludedIn": [ "Trivia" ],
+    "value": "Which element has the chemical symbol “Sn”? --Answer: Tin",
+    "Category": "Science"
+  },
+  {
+    "Id": 135,
+    "DateAdded": "2026-04-23T00:00:00Z",
+    "GamesIncludedIn": [ "Trivia" ],
+    "value": "What is the smallest country in the world by land area? --Answer: Vatican City",
+    "Category": "General"
+  },
+  {
+    "Id": 136,
+    "DateAdded": "2026-04-23T00:00:00Z",
+    "GamesIncludedIn": [ "Trivia" ],
+    "value": "In The Dark Knight, the Joker’s line to Harvey Dent is about introducing a little “what”? --Answer: Anarchy",
+    "Category": "Movies/TV"
+  },
+  {
+    "Id": 137,
+    "DateAdded": "2026-04-23T00:00:00Z",
+    "GamesIncludedIn": [ "Trivia" ],
+    "value": "What was the first feature-length animated movie released by Disney? --Answer: Snow White and the Seven Dwarfs",
+    "Category": "Movies/TV"
+  },
+  {
+    "Id": 138,
+    "DateAdded": "2026-04-23T00:00:00Z",
+    "GamesIncludedIn": [ "Trivia" ],
+    "value": "What part of the cell contains DNA? --Answer: Nucleus",
+    "Category": "Science"
   }
 ]
