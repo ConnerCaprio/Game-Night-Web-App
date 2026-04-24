@@ -54,7 +54,9 @@
     <div class="bottom-sheet" (click)="$event.stopPropagation()">
       <div class="sheet-handle"></div>
       <div class="sheet-label">{{ activeCategory }}</div>
-      <div class="sheet-suggestion">{{ currentSuggestion }}</div>
+      <div class="sheet-suggestion" [class.long-text]="currentSuggestion.length > 300">
+        {{ currentSuggestion }}
+      </div>
       <div class="sheet-actions">
         <button class="btn-primary" (click)="selectCategory(activeCategory)">Another suggestion</button>
         <button class="btn-close" (click)="clearSuggestion()">✕</button>
