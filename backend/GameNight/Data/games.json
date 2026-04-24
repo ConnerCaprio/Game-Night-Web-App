@@ -25,5 +25,14 @@
     "PlayTimeMinutes": 5,
     "MinPlayers": 2,
     "MaxPlayers": 10
+  },
+  {
+    "Id": "Trivia",
+    "DateAdded": "2026-04-24T00:00:00Z",
+    "Name": "Trivia",
+    "Rules": "Players try to answer random trivia questions while 1 person asks the questions and has the answers to confirm correct responses.",
+    "PlayTimeMinutes": 5,
+    "MinPlayers": 2,
+    "MaxPlayers": 10
   }
 ]
