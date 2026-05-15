@@ -1226,5 +1226,2116 @@
     "GamesIncludedIn": [ "Trivia" ],
     "value": "What part of the cell contains DNA? --Answer: Nucleus",
     "Category": "Science"
+  },
+  {
+  "Id": 139,
+  "DateAdded": "2026-05-14T00:00:00Z",
+  "GamesIncludedIn": [
+    "Kings Cup"
+  ],
+  "value": "end up on a roof",
+  "Category": "Ace"
+  },
+  {
+    "Id": 140,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "favorite pet",
+    "Category": "Nine-Truth"
+  },
+  {
+    "Id": 141,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "finish your drink",
+    "Category": "Nine-Dare"
+  },
+  {
+    "Id": 142,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "2D shapes",
+    "Category": "Ten"
+  },
+  {
+    "Id": 143,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "bought early entry to Tots",
+    "Category": "Jack"
+  },
+  {
+    "Id": 144,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "biggest guilty pleasure",
+    "Category": "Queen"
+  },
+  {
+    "Id": 145,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "touch your phone",
+    "Category": "King"
+  },
+  {
+    "Id": 146,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "try to get into the wrong room",
+    "Category": "Ace"
+  },
+  {
+    "Id": 147,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "do you like this website",
+    "Category": "Nine-Truth"
+  },
+  {
+    "Id": 148,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "make a speech",
+    "Category": "Nine-Dare"
+  },
+  {
+    "Id": 149,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "NHL teams",
+    "Category": "Ten"
+  },
+  {
+    "Id": 150,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "left drinks on the table",
+    "Category": "Jack"
+  },
+  {
+    "Id": 151,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "unusual thing you find attractive",
+    "Category": "Queen"
+  },
+  {
+    "Id": 152,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Buffalo",
+    "Category": "King"
+  },
+  {
+    "Id": 153,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "get high before an interview",
+    "Category": "Ace"
+  },
+  {
+    "Id": 154,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "What’s the worst thing you’ve done out of jealousy?",
+    "Category": "Nine-Truth"
+  },
+  {
+    "Id": 155,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "get someone at the game breakfast tomorrow",
+    "Category": "Nine-Dare"
+  },
+  {
+    "Id": 156,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "NBA teams",
+    "Category": "Ten"
+  },
+  {
+    "Id": 157,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "won a shotgun race",
+    "Category": "Jack"
+  },
+  {
+    "Id": 158,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "What’s something you think you’ll never fully heal from?",
+    "Category": "Queen"
+  },
+  {
+    "Id": 159,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Everyone must answer instantly or drink",
+    "Category": "King"
+  },
+  {
+    "Id": 160,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "lead a prison gang",
+    "Category": "Ace"
+  },
+  {
+    "Id": 161,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "What’s your biggest “main character” moment?",
+    "Category": "Nine-Truth"
+  },
+  {
+    "Id": 162,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "stop a stopwatch at exactly 5.00 within a minute or take a shot",
+    "Category": "Nine-Dare"
+  },
+  {
+    "Id": 163,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "MLB teams",
+    "Category": "Ten"
+  },
+  {
+    "Id": 164,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "used a beer bong/funnel",
+    "Category": "Jack"
+  },
+  {
+    "Id": 165,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "What’s something you’re weirdly defensive about?",
+    "Category": "Queen"
+  },
+  {
+    "Id": 166,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "If you forget a current rule, double drink",
+    "Category": "King"
+  },
+  {
+    "Id": 167,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "order chicken fingers at a nice restaurant",
+    "Category": "Ace"
+  },
+  {
+    "Id": 168,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "What’s your biggest flex?",
+    "Category": "Nine-Truth"
+  },
+  {
+    "Id": 169,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "tell a dirty story to the oldest person there",
+    "Category": "Nine-Dare"
+  },
+  {
+    "Id": 170,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "things in a cell",
+    "Category": "Ten"
+  },
+  {
+    "Id": 171,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "gotten in a car crash",
+    "Category": "Jack"
+  },
+  {
+    "Id": 172,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "What’s something you’re terrified of becoming?",
+    "Category": "Queen"
+  },
+  {
+    "Id": 173,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "You must keep one hand on your drink unless it’s your turn",
+    "Category": "King"
+  },
+  {
+    "Id": 174,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "be the biggest freak",
+    "Category": "Ace"
+  },
+  {
+    "Id": 175,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "What’s the dumbest argument you’ve had?",
+    "Category": "Nine-Truth"
+  },
+  {
+    "Id": 176,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Do your best impression of your future self at age 80",
+    "Category": "Nine-Dare"
+  },
+  {
+    "Id": 177,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "animated movies/TV that show blood",
+    "Category": "Ten"
+  },
+  {
+    "Id": 178,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "been to South America",
+    "Category": "Jack"
+  },
+  {
+    "Id": 179,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "What’s something you secretly think you deserve more credit for?",
+    "Category": "Queen"
+  },
+  {
+    "Id": 180,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "If someone says “bro,” everyone drinks",
+    "Category": "King"
+  },
+  {
+    "Id": 181,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "be addicted to social media",
+    "Category": "Ace"
+  },
+  {
+    "Id": 182,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "What’s your worst habit?",
+    "Category": "Nine-Truth"
+  },
+  {
+    "Id": 183,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Balance on one foot until your next turn",
+    "Category": "Nine-Dare"
+  },
+  {
+    "Id": 184,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "organs",
+    "Category": "Ten"
+  },
+  {
+    "Id": 185,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "been to Europe",
+    "Category": "Jack"
+  },
+  {
+    "Id": 186,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "What’s something you wish you could ask your ex?",
+    "Category": "Queen"
+  },
+  {
+    "Id": 187,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "No talking with your hands",
+    "Category": "King"
+  },
+  {
+    "Id": 188,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "stop the car for a bathroom break",
+    "Category": "Ace"
+  },
+  {
+    "Id": 189,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Who here would you trust the least with your phone?",
+    "Category": "Nine-Truth"
+  },
+  {
+    "Id": 190,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Hold a plank while answering questions",
+    "Category": "Nine-Dare"
+  },
+  {
+    "Id": 191,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "engineering fields",
+    "Category": "Ten"
+  },
+  {
+    "Id": 192,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "gone on a cruise",
+    "Category": "Jack"
+  },
+  {
+    "Id": 193,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "What’s something you’ve never fully forgiven?",
+    "Category": "Queen"
+  },
+  {
+    "Id": 194,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Every person gets assigned an accent by the group",
+    "Category": "King"
+  },
+  {
+    "Id": 195,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "go bald",
+    "Category": "Ace"
+  },
+  {
+    "Id": 196,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "What’s the meanest thing you’ve said about someone?",
+    "Category": "Nine-Truth"
+  },
+  {
+    "Id": 197,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Let the group decide your next text message",
+    "Category": "Nine-Dare"
+  },
+  {
+    "Id": 198,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "sex positions",
+    "Category": "Ten"
+  },
+  {
+    "Id": 199,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "thrown up something colorful",
+    "Category": "Jack"
+  },
+  {
+    "Id": 200,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "What’s your most unhealthy attachment?",
+    "Category": "Queen"
+  },
+  {
+    "Id": 201,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Every sentence must include an unnecessary detail",
+    "Category": "King"
+  },
+  {
+    "Id": 202,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "be able to spell “guarantee”",
+    "Category": "Ace"
+  },
+  {
+    "Id": 203,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Whisper everything for the next round",
+    "Category": "Nine-Dare"
+  },
+  {
+    "Id": 204,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "blondes",
+    "Category": "Ten"
+  },
+  {
+    "Id": 205,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "been fired",
+    "Category": "Jack"
+  },
+  {
+    "Id": 206,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "What’s something you secretly want validation for?",
+    "Category": "Queen"
+  },
+  {
+    "Id": 207,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "If you touch your face, drink",
+    "Category": "King"
+  },
+  {
+    "Id": 208,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "die in a horror movie",
+    "Category": "Ace"
+  },
+  {
+    "Id": 209,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "sushi rolls",
+    "Category": "Ten"
+  },
+  {
+    "Id": 210,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "thrown a pitch for a strike",
+    "Category": "Jack"
+  },
+  {
+    "Id": 211,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "What kind of person brings out the worst in you?",
+    "Category": "Queen"
+  },
+  {
+    "Id": 212,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Every drink requires direct eye contact with someone",
+    "Category": "King"
+  },
+  {
+    "Id": 213,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "need a hug",
+    "Category": "Ace"
+  },
+  {
+    "Id": 214,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Pokémon",
+    "Category": "Ten"
+  },
+  {
+    "Id": 215,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "bowled 3 strikes in a row",
+    "Category": "Jack"
+  },
+  {
+    "Id": 216,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "What’s the biggest red flag you ignore in yourself?",
+    "Category": "Queen"
+  },
+  {
+    "Id": 217,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "If someone interrupts another person, they drink",
+    "Category": "King"
+  },
+  {
+    "Id": 218,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "watch a dirty movie in VR",
+    "Category": "Ace"
+  },
+  {
+    "Id": 219,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Yu-Gi-Oh! cards",
+    "Category": "Ten"
+  },
+  {
+    "Id": 220,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "drifted a car",
+    "Category": "Jack"
+  },
+  {
+    "Id": 221,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "What’s something you judge people for instantly?",
+    "Category": "Queen"
+  },
+  {
+    "Id": 222,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Everyone must clap after every completed turn",
+    "Category": "King"
+  },
+  {
+    "Id": 223,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "best in bed",
+    "Category": "Ace"
+  },
+  {
+    "Id": 224,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Dragon Ball Z characters",
+    "Category": "Ten"
+  },
+  {
+    "Id": 225,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "had surgery",
+    "Category": "Jack"
+  },
+  {
+    "Id": 226,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Who here would be the worst person to date?",
+    "Category": "Queen"
+  },
+  {
+    "Id": 227,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "If you make someone laugh while they’re drinking, they finish",
+    "Category": "King"
+  },
+  {
+    "Id": 228,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "screw it. Just point to who you want to be drunker",
+    "Category": "Ace"
+  },
+  {
+    "Id": 229,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "had a child",
+    "Category": "Jack"
+  },
+  {
+    "Id": 230,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "What’s your most selfish trait?",
+    "Category": "Queen"
+  },
+  {
+    "Id": 231,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "No sitting normally allowed",
+    "Category": "King"
+  },
+  {
+    "Id": 232,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "throw up on the teacups/storm ride",
+    "Category": "Ace"
+  },
+  {
+    "Id": 233,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "tripped at a wedding",
+    "Category": "Jack"
+  },
+  {
+    "Id": 234,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "What’s something you pretend not to care about but actually do?",
+    "Category": "Queen"
+  },
+  {
+    "Id": 235,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "If someone asks a question and gets answered, both drink",
+    "Category": "King"
+  },
+  {
+    "Id": 236,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "say a chair, side table, and TV is good enough for a living room",
+    "Category": "Ace"
+  },
+  {
+    "Id": 237,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "spoke in front of 100 people",
+    "Category": "Jack"
+  },
+  {
+    "Id": 238,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Who here would absolutely sell out first for money?",
+    "Category": "Queen"
+  },
+  {
+    "Id": 239,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Every sentence must include a fake fun fact",
+    "Category": "King"
+  },
+  {
+    "Id": 240,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "accidentally flirt with a waiter",
+    "Category": "Ace"
+  },
+  {
+    "Id": 241,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "seen the aurora borealis",
+    "Category": "Jack"
+  },
+  {
+    "Id": 242,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Before drinking, you must compliment someone sincerely",
+    "Category": "King"
+  },
+  {
+    "Id": 243,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "survive entirely on energy drinks and vibes",
+    "Category": "Ace"
+  },
+  {
+    "Id": 244,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "worn a bow tie",
+    "Category": "Jack"
+  },
+  {
+    "Id": 245,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Everyone must narrate their actions like a nature documentary",
+    "Category": "King"
+  },
+  {
+    "Id": 246,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "own 47 unread text messages",
+    "Category": "Ace"
+  },
+  {
+    "Id": 247,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "watched a whole season of a show in one day",
+    "Category": "Jack"
+  },
+  {
+    "Id": 248,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Every time someone laughs, they drink",
+    "Category": "King"
+  },
+  {
+    "Id": 249,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "fall asleep during a movie they picked",
+    "Category": "Ace"
+  },
+  {
+    "Id": 250,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "thrown up at a friend's house",
+    "Category": "Jack"
+  },
+  {
+    "Id": 251,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "become a cult leader by accident",
+    "Category": "Ace"
+  },
+  {
+    "Id": 252,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "gotten kicked out of a bar",
+    "Category": "Jack"
+  },
+  {
+    "Id": 253,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "get married in Vegas",
+    "Category": "Ace"
+  },
+  {
+    "Id": 254,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "been arrested",
+    "Category": "Jack"
+  },
+  {
+    "Id": 255,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "send a risky text and immediately panic",
+    "Category": "Ace"
+  },
+  {
+    "Id": 256,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "saved a life",
+    "Category": "Jack"
+  },
+  {
+    "Id": 257,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "win an argument they started wrong",
+    "Category": "Ace"
+  },
+  {
+    "Id": 258,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "eaten a foreign delicacy",
+    "Category": "Jack"
+  },
+  {
+    "Id": 259,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "have the weirdest search history",
+    "Category": "Ace"
+  },
+  {
+    "Id": 260,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "broken a bone",
+    "Category": "Jack"
+  },
+  {
+    "Id": 261,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "spend $200 online at 2 AM",
+    "Category": "Ace"
+  },
+  {
+    "Id": 262,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "smashed a computer",
+    "Category": "Jack"
+  },
+  {
+    "Id": 263,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "become famous for something stupid",
+    "Category": "Ace"
+  },
+  {
+    "Id": 264,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "been called UNC",
+    "Category": "Jack"
+  },
+  {
+    "Id": 265,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "hook up with someone at a wedding",
+    "Category": "Ace"
+  },
+  {
+    "Id": 266,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "done a whale impression",
+    "Category": "Jack"
+  },
+  {
+    "Id": 267,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "get banned from an amusement park",
+    "Category": "Ace"
+  },
+  {
+    "Id": 268,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "made a movie",
+    "Category": "Jack"
+  },
+  {
+    "Id": 269,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "fake being sick to avoid plans",
+    "Category": "Ace"
+  },
+  {
+    "Id": 270,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "fainted",
+    "Category": "Jack"
+  },
+  {
+    "Id": 271,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "bring snacks everywhere",
+    "Category": "Ace"
+  },
+  {
+    "Id": 272,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "won a raffle",
+    "Category": "Jack"
+  },
+  {
+    "Id": 273,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "accidentally start a fire cooking",
+    "Category": "Ace"
+  },
+  {
+    "Id": 274,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "broken a bone",
+    "Category": "Jack"
+  },
+  {
+    "Id": 275,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "become a sugar parent",
+    "Category": "Ace"
+  },
+  {
+    "Id": 276,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "broken a condom",
+    "Category": "Jack"
+  },
+  {
+    "Id": 277,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "get matching tattoos on impulse",
+    "Category": "Ace"
+  },
+  {
+    "Id": 278,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "laughed during sex",
+    "Category": "Jack"
+  },
+  {
+    "Id": 279,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "cry over an animal video",
+    "Category": "Ace"
+  },
+  {
+    "Id": 280,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "shot a gun",
+    "Category": "Jack"
+  },
+  {
+    "Id": 281,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "date someone they met on vacation",
+    "Category": "Ace"
+  },
+  {
+    "Id": 282,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "not seen a Harry Potter movie",
+    "Category": "Jack"
+  },
+  {
+    "Id": 283,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "end up in a reality TV show",
+    "Category": "Ace"
+  },
+  {
+    "Id": 284,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "been in a fraternity/sorority",
+    "Category": "Jack"
+  },
+  {
+    "Id": 285,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "get caught skinny dipping",
+    "Category": "Ace"
+  },
+  {
+    "Id": 286,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "played a varsity sport",
+    "Category": "Jack"
+  },
+  {
+    "Id": 287,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "ghost everyone for three days then return like nothing happened",
+    "Category": "Ace"
+  },
+  {
+    "Id": 288,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "owned an Ivy League merch item",
+    "Category": "Jack"
+  },
+  {
+    "Id": 289,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "flirt their way out of a speeding ticket",
+    "Category": "Ace"
+  },
+  {
+    "Id": 290,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "had mono",
+    "Category": "Jack"
+  },
+  {
+    "Id": 291,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "accidentally expose themselves in public",
+    "Category": "Ace"
+  },
+  {
+    "Id": 292,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "been to class high",
+    "Category": "Jack"
+  },
+  {
+    "Id": 293,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "fall in love after one conversation",
+    "Category": "Ace"
+  },
+  {
+    "Id": 294,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "done a Thanksgiving 5K",
+    "Category": "Jack"
+  },
+  {
+    "Id": 295,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "survive longest on a deserted island",
+    "Category": "Ace"
+  },
+  {
+    "Id": 296,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "been in a band",
+    "Category": "Jack"
+  },
+  {
+    "Id": 297,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "get into a fight defending a friend",
+    "Category": "Ace"
+  },
+  {
+    "Id": 298,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "bought a fidget spinner",
+    "Category": "Jack"
+  },
+  {
+    "Id": 299,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "have the loudest laugh in public",
+    "Category": "Ace"
+  },
+  {
+    "Id": 300,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "enjoyed the smell of gasoline",
+    "Category": "Jack"
+  },
+  {
+    "Id": 301,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "drunk-order food for the entire group",
+    "Category": "Ace"
+  },
+  {
+    "Id": 302,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "had a swimming pool",
+    "Category": "Jack"
+  },
+  {
+    "Id": 303,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "get proposed to first",
+    "Category": "Ace"
+  },
+  {
+    "Id": 304,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "done your own taxes",
+    "Category": "Jack"
+  },
+  {
+    "Id": 305,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "have a secret second life",
+    "Category": "Ace"
+  },
+  {
+    "Id": 306,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "milked a cow",
+    "Category": "Jack"
+  },
+  {
+    "Id": 307,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "done the walk of shame",
+    "Category": "Jack"
+  },
+  {
+    "Id": 308,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "had a tattoo",
+    "Category": "Jack"
+  },
+  {
+    "Id": 309,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "gotten/given road head",
+    "Category": "Jack"
+  },
+  {
+    "Id": 310,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "solved a Rubik’s Cube",
+    "Category": "Jack"
+  },
+  {
+    "Id": 311,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "owned Crocs",
+    "Category": "Jack"
+  },
+  {
+    "Id": 312,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "fooled around in a movie theater",
+    "Category": "Jack"
+  },
+  {
+    "Id": 313,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "cracked a phone screen",
+    "Category": "Jack"
+  },
+  {
+    "Id": 314,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "owned Bitcoin",
+    "Category": "Jack"
+  },
+  {
+    "Id": 315,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "seen Teen Titans",
+    "Category": "Jack"
+  },
+  {
+    "Id": 316,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "rolled a fat doobie",
+    "Category": "Jack"
+  },
+  {
+    "Id": 317,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "paid for Netflix",
+    "Category": "Jack"
+  },
+  {
+    "Id": 318,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "seen Game of Thrones",
+    "Category": "Jack"
+  },
+  {
+    "Id": 319,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "dyed my hair",
+    "Category": "Jack"
+  },
+  {
+    "Id": 320,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "flown first class",
+    "Category": "Jack"
+  },
+  {
+    "Id": 321,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "lost over $300 at a casino",
+    "Category": "Jack"
+  },
+  {
+    "Id": 322,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "taken instrument lessons",
+    "Category": "Jack"
+  },
+  {
+    "Id": 323,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "been to Coachella",
+    "Category": "Jack"
+  },
+  {
+    "Id": 324,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "kept a condom in a purse or wallet",
+    "Category": "Jack"
+  },
+  {
+    "Id": 325,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "taken karate",
+    "Category": "Jack"
+  },
+  {
+    "Id": 326,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "maxed out a machine at the gym",
+    "Category": "Jack"
+  },
+  {
+    "Id": 327,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "been caught mindlessly staring at the gym",
+    "Category": "Jack"
+  },
+  {
+    "Id": 328,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "lost a bunch of computer files from corruption, water, etc.",
+    "Category": "Jack"
+  },
+  {
+    "Id": 329,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "got a home run",
+    "Category": "Jack"
+  },
+  {
+    "Id": 330,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "driven backwards",
+    "Category": "Jack"
+  },
+  {
+    "Id": 331,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "been punched in the face",
+    "Category": "Jack"
+  },
+  {
+    "Id": 332,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "wiped with your non-dominant hand",
+    "Category": "Jack"
+  },
+  {
+    "Id": 333,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "driven a race car",
+    "Category": "Jack"
+  },
+  {
+    "Id": 334,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Group cheers",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 335,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Say the number in another language",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 336,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "A word that rhymes with the number",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 337,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Sing it",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 338,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Take a drink",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 339,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Skip",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 340,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Quote a song",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 341,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Compliment someone",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 342,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Roast someone",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 343,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Animal sound",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 344,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Name a movie",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 345,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Name a state",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 346,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Name one of your favorite food dishes",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 347,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Do an impression",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 348,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Penis",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 349,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "C position",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 350,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Swap seats",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 351,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Choose who goes next instead of the person next to you",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 352,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Roman numeral for the number",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 353,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Name a landmark",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 354,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Finger guns",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 355,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Antidisestablishmentarianism",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 356,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Subtract 2 from the number",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 357,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Snap",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 358,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Say it twice",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 359,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "\"I'm lost\"",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 360,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "\"What's the rule again?\"",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 361,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Yeehaw",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 362,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Pinky swear",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 363,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Air quotes",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 364,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Clap the number",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 365,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Something that would make a baby laugh",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 366,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Third base coach stealing signs",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 367,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Oh no",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 368,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Go Bolts",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 369,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Goblin",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 370,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Weeeeeeeeeeeee",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 371,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Pitch an app idea; keep it fast. Example: an app that reminds you to go to bed",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 132,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [ "Trivia" ],
+    "value": "a positive number for eye glasses means you naturally see far or close better? --Answer: Better far away",
+    "Category": "General"
+  },
+  {
+    "Id": 132,
+    "DateAdded": "2026-05-14T00:00:00Z",
+    "GamesIncludedIn": [ "Trivia" ],
+    "value": "what country is Mount Everest in? --Answer: Nepal",
+    "Category": "General"
   }
 ]
