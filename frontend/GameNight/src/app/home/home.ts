@@ -20,7 +20,7 @@ export class Home implements OnInit {
   ngOnInit(): void {
     this.gameService.getGames().subscribe({
       next: (games: Game[]) => {
-        console.log(games);
+        //console.log(games);
         this.games = games;
         this.cdr.markForCheck();
       },
