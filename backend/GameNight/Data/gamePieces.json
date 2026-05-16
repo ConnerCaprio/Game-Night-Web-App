@@ -3123,7 +3123,7 @@
     "GamesIncludedIn": [
       "Cheers to the Governor"
     ],
-    "value": "C position",
+    "value": "Sex position",
     "Category": "New Rules"
   },
   {
@@ -3325,17 +3325,962 @@
     "Category": "New Rules"
   },
   {
-    "Id": 132,
+    "Id": 372,
     "DateAdded": "2026-05-14T00:00:00Z",
     "GamesIncludedIn": [ "Trivia" ],
     "value": "a positive number for eye glasses means you naturally see far or close better? --Answer: Better far away",
     "Category": "General"
   },
   {
-    "Id": 132,
+    "Id": 373,
     "DateAdded": "2026-05-14T00:00:00Z",
     "GamesIncludedIn": [ "Trivia" ],
     "value": "what country is Mount Everest in? --Answer: Nepal",
     "Category": "General"
+  },
+  {
+    "Id": 374,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Hypothetically"
+    ],
+    "value": "Scientists prove that dogs understand every word humans say, but they have been pretending not to because they dont want more responsibility. Does this make you respect dogs more or less?",
+    "Category": "Debate"
+  },
+  {
+    "Id": 375,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Hypothetically"
+    ],
+    "value": "You can instantly become the best in the world at one Olympic sport, but it has to be one that almost no one respects. Do you choose race walking, trampoline, curling, dressage, or something else?",
+    "Category": "Press the Button?"
+  },
+  {
+    "Id": 376,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Hypothetically"
+    ],
+    "value": "You get to know the exact date of your death, but only if it is printed on your forehead in a font everyone can read. Do you look?",
+    "Category": "Press the Button?"
+  },
+  {
+    "Id": 377,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Hypothetically"
+    ],
+    "value": "A genie offers you the ability to fly, but only at the speed of a casual jog and only while lying belly-down like Superman. Are you still using this in public?",
+    "Category": "Press the Button?"
+  },
+  {
+    "Id": 378,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Hypothetically"
+    ],
+    "value": "Every time you sneeze, someone within 50 feet hears you say one honest thought you are currently having. ",
+    "Category": "Press the Button?"
+  },
+  {
+    "Id": 379,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Hypothetically"
+    ],
+    "value": "You are given a magic button. Pressing it makes you 10% more attractive, but also 10% more likely to say “actually…” in conversations. How many presses before you become unbearable?",
+    "Category": "Press the Button?"
+  },
+  {
+    "Id": 380,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Hypothetically"
+    ],
+    "value": "The government gives you a free mansion, but one room is occupied by a polite ghost who only wants to talk about fantasy football. You cannot remove him. Are you moving in?",
+    "Category": "Press the Button?"
+  },
+  {
+    "Id": 381,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Hypothetically"
+    ],
+    "value": "You can bring one extinct animal back, but it lives in your neighborhood and you are legally responsible for anything it does. What animal are you choosing?",
+    "Category": "Press the Button?"
+  },
+  {
+    "Id": 382,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Hypothetically"
+    ],
+    "value": "You are offered $2 million, but from now on, every time someone says your name, a tiny confetti cannon goes off within six feet of you. Do you take it?",
+    "Category": "Press the Button?"
+  },
+  {
+    "Id": 383,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Hypothetically"
+    ],
+    "value": "You can make one food calorie-free forever, but everyone knows you were the one who chose it. What food are you picking, and how much judgment are you willing to endure?",
+    "Category": "Press the Button?"
+  },
+  {
+    "Id": 384,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Hypothetically"
+    ],
+    "value": "You are allowed to replace one major world monument with a giant statue of yourself, and everyone has to pretend it has always been there. Which monument are you replacing?",
+    "Category": "Press the Button?"
+  },
+  {
+    "Id": 385,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Hypothetically"
+    ],
+    "value": "You can have perfect hair forever, but every mirror you look into gives you brutally honest life advice. Do you accept?",
+    "Category": "Press the Button?"
+  },
+  {
+    "Id": 386,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Hypothetically"
+    ],
+    "value": "Aliens arrive and say they will judge humanity based on one chain restaurant. Which restaurant are you sending them to?",
+    "Category": "Press the Button?"
+  },
+  {
+    "Id": 387,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Hypothetically"
+    ],
+    "value": "You get $100,000, but for the rest of your life, any time you enter a room, everyone hears a WWE entrance theme for you. Are you taking the money, and what’s your theme?",
+    "Category": "Press the Button?"
+  },
+  {
+    "Id": 388,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Hypothetically"
+    ],
+    "value": "You can become fluent in every language, but you permanently lose the ability to understand sarcasm. Is that a net gain or a social death sentence?",
+    "Category": "Press the Button?"
+  },
+  {
+    "Id": 389,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Hypothetically"
+    ],
+    "value": "A scientist invents a machine that can prove whether someone is cool. The first test subject is you. Do you step inside?",
+    "Category": "Press the Button?"
+  },
+  {
+    "Id": 390,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "EASTER EGG! EVERYONE DRINK! TO SHANE AND MADDI!",
+    "Category": "Jack"
+  },
+  {
+  "Id": 391,
+  "DateAdded": "2026-05-15T00:00:00Z",
+  "GamesIncludedIn": [
+    "Kings Cup"
+  ],
+  "value": "Most likely to get banned from a Chilis.",
+  "Category": "Ace"
+  },
+  {
+    "Id": 392,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Most likely to survive a zombie apocalypse by betraying everyone.",
+    "Category": "Ace"
+  },
+  {
+    "Id": 393,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Most likely to text you up? and then fall asleep.",
+    "Category": "Ace"
+  },
+  {
+    "Id": 394,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Most likely to argue with a child and lose.",
+    "Category": "Ace"
+  },
+  {
+    "Id": 395,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Most likely to be investigated after winning the lottery.",
+    "Category": "Ace"
+  },
+  {
+    "Id": 396,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Most likely to become a motivational speaker despite making horrible choices.",
+    "Category": "Ace"
+  },
+  {
+    "Id": 397,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Most likely to ruin a surprise party by being weirdly suspicious.",
+    "Category": "Ace"
+  },
+  {
+    "Id": 398,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Most likely to marry rich but still complain about money.",
+    "Category": "Ace"
+  },
+  {
+    "Id": 399,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Most likely to have a secret second phone.",
+    "Category": "Ace"
+  },
+  {
+    "Id": 400,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Most likely to make a waiter uncomfortable by being funny.",
+    "Category": "Ace"
+  },
+  {
+  "Id": 401,
+  "DateAdded": "2026-05-15T00:00:00Z",
+  "GamesIncludedIn": [
+    "Kings Cup"
+  ],
+  "value": "What is a text you have sent that you immediately regretted?",
+  "Category": "Nine-Truth"
+  },
+  {
+    "Id": 402,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "What is the most ridiculous lie you have told to get out of plans?",
+    "Category": "Nine-Truth"
+  },
+  {
+    "Id": 403,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Who here has the worst I am fine face when they are absolutely not fine?",
+    "Category": "Nine-Truth"
+  },
+  {
+    "Id": 404,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "What is your most delusional dating standard?",
+    "Category": "Nine-Truth"
+  },
+  {
+    "Id": 405,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "What is something you pretend to understand but absolutely do not?",
+    "Category": "Nine-Truth"
+  },
+  {
+    "Id": 406,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "What is the worst financial decision you have made that you still kind of stand by?",
+    "Category": "Nine-Truth"
+  },
+  {
+    "Id": 407,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Who here would be the most dangerous if they suddenly got famous?",
+    "Category": "Nine-Truth"
+  },
+  {
+    "Id": 408,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "What is the most dramatic thing you have done over something minor?",
+    "Category": "Nine-Truth"
+  },
+  {
+    "Id": 409,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "What is your biggest I was the problem moment?",
+    "Category": "Nine-Truth"
+  },
+  {
+    "Id": 410,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "What is the most unhinged thing in your search history that you can safely admit?",
+    "Category": "Nine-Truth"
+  },
+  {
+  "Id": 411,
+  "DateAdded": "2026-05-15T00:00:00Z",
+  "GamesIncludedIn": [
+    "Kings Cup"
+  ],
+  "value": "Let the person to your left redo your hairstyle for one round.",
+  "Category": "Nine-Dare"
+  },
+  {
+    "Id": 412,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Pick someone and dramatically apologize to them for something you clearly did not do.",
+    "Category": "Nine-Dare"
+  },
+  {
+    "Id": 413,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Let the group choose your new nickname for the rest of the game.",
+    "Category": "Nine-Dare"
+  },
+  {
+    "Id": 414,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Do a dramatic reading of the last non-boring text you sent.",
+    "Category": "Nine-Dare"
+  },
+  {
+    "Id": 415,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Rank three people in the room by who would survive longest in jail, then defend your answer.",
+    "Category": "Nine-Dare"
+  },
+  {
+    "Id": 416,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Call someone boss every time you speak until your next turn.",
+    "Category": "Nine-Dare"
+  },
+  {
+    "Id": 417,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Answer a most likely to prompt.",
+    "Category": "Nine-Dare"
+  },
+  {
+  "Id": 418,
+  "DateAdded": "2026-05-15T00:00:00Z",
+  "GamesIncludedIn": [
+    "Kings Cup"
+  ],
+  "value": "Things you should not say during a job interview.",
+  "Category": "Ten"
+  },
+  {
+    "Id": 419,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Bad names for a boat.",
+    "Category": "Ten"
+  },
+  {
+    "Id": 420,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Things that sound fake but are real.",
+    "Category": "Ten"
+  },
+  {
+    "Id": 421,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Places you would hate to be hungover.",
+    "Category": "Ten"
+  },
+  {
+    "Id": 422,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Excuses for leaving a party early.",
+    "Category": "Ten"
+  },
+  {
+    "Id": 423,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Things people pretend are fun.",
+    "Category": "Ten"
+  },
+  {
+    "Id": 424,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Red flags that are somehow also attractive.",
+    "Category": "Ten"
+  },
+  {
+    "Id": 425,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Songs everyone thinks they can sing but absolutely cannot.",
+    "Category": "Ten"
+  },
+  {
+    "Id": 426,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Things that would be weird to whisper.",
+    "Category": "Ten"
+  },
+  {
+    "Id": 427,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Jobs someone in this room would be terrible at.",
+    "Category": "Ten"
+  },
+  {
+    "Id": 428,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Things you could say during sex and also at a restaurant.",
+    "Category": "Ten"
+  },
+  {
+  "Id": 429,
+  "DateAdded": "2026-05-15T00:00:00Z",
+  "GamesIncludedIn": [
+    "Kings Cup"
+  ],
+  "value": "Never have I ever lied about being five minutes away.",
+  "Category": "Jack"
+  },
+  {
+    "Id": 430,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Never have I ever pretended not to see someone in public.",
+    "Category": "Jack"
+  },
+  {
+    "Id": 431,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Never have I ever had a crush on someone I knew was bad news.",
+    "Category": "Jack"
+  },
+  {
+    "Id": 432,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Never have I ever sent a screenshot to the person I was screenshotting.",
+    "Category": "Jack"
+  },
+  {
+    "Id": 433,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Never have I ever practiced an argument in the shower.",
+    "Category": "Jack"
+  },
+  {
+    "Id": 434,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Never have I ever gone out for one drink and made it everyones problem.",
+    "Category": "Jack"
+  },
+  {
+    "Id": 435,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Never have I ever judged someones Spotify Wrapped.",
+    "Category": "Jack"
+  },
+  {
+    "Id": 436,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Never have I ever been way too emotionally invested in a reality show.",
+    "Category": "Jack"
+  },
+  {
+    "Id": 437,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Never have I ever posted something hoping one specific person would see it.",
+    "Category": "Jack"
+  },
+  {
+    "Id": 438,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Never have I ever had to delete a draft because it was too insane.",
+    "Category": "Jack"
+  },
+  {
+    "Id": 439,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "Never have I ever woken up and had to check my phone like it was a crime scene.",
+    "Category": "Jack"
+  },
+  {
+  "Id": 440,
+  "DateAdded": "2026-05-15T00:00:00Z",
+  "GamesIncludedIn": [
+    "Kings Cup"
+  ],
+  "value": "What is the most embarrassing thing you have done while trying to look cool?",
+  "Category": "Queen"
+  },
+  {
+    "Id": 441,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "What is something people assume about you that is actually wrong?",
+    "Category": "Queen"
+  },
+  {
+    "Id": 442,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "What is your biggest green flag that you think does not get enough credit?",
+    "Category": "Queen"
+  },
+  {
+    "Id": 443,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "What is the most you way you could ruin a wedding?",
+    "Category": "Queen"
+  },
+  {
+    "Id": 444,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "What type of person are you embarrassingly attracted to?",
+    "Category": "Queen"
+  },
+  {
+    "Id": 445,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "What is your villain origin story, but make it low-stakes?",
+    "Category": "Queen"
+  },
+  {
+    "Id": 446,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "What is something you are weirdly competitive about?",
+    "Category": "Queen"
+  },
+  {
+    "Id": 447,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "What is your most irrational ick?",
+    "Category": "Queen"
+  },
+  {
+    "Id": 448,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "What is the nicest insult someone could accurately give you?",
+    "Category": "Queen"
+  },
+  {
+    "Id": 449,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "What is your go-to move when you are flirting and trying not to look like you are flirting?",
+    "Category": "Queen"
+  },
+  {
+    "Id": 450,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "What is the most predictable thing about you?",
+    "Category": "Queen"
+  },
+  {
+    "Id": 451,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Kings Cup"
+    ],
+    "value": "What is one rumor about you that would be believable even if it was not true?",
+    "Category": "Queen"
+  },
+  {
+  "Id": 452,
+  "DateAdded": "2026-05-15T00:00:00Z",
+  "GamesIncludedIn": [
+    "Cheers to the Governor"
+  ],
+  "value": "Say the number in an accent",
+  "Category": "New Rules"
+  },
+  {
+    "Id": 453,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Skip it",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 454,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Whisper it",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 455,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Shout it",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 456,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Celebrity name",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 457,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Salute",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 458,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Breaking news reporter",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 459,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Like a Cook Out cashier telling the people in the back",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 460,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Say the number while putting up the wrong number of fingers",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 461,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Sexily",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 462,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Mic drop",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 463,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Eye contact",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 464,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Ask a yes or no question to someone",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 465,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Pirate",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 466,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Gas station snack",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 467,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Bingo!",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 468,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "7 = Heaven",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 469,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "4 = Floor",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 470,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Law and Order dun dun",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 471,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Jazz hands",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 472,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Selfie",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 473,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Photo of other people",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 474,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Moist",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 475,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Daddy",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 476,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Book quote",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 477,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Movie quote",
+    "Category": "New Rules"
+  },
+  {
+    "Id": 478,
+    "DateAdded": "2026-05-15T00:00:00Z",
+    "GamesIncludedIn": [
+      "Cheers to the Governor"
+    ],
+    "value": "Say your birthday Florida Man headline",
+    "Category": "New Rules"
   }
 ]

@@ -32,7 +32,7 @@ export class GameDetails implements OnInit {
     if (name) {
       this.gameService.getGameByName(name).subscribe({
         next: (game) => {
-          console.log(game);
+          //console.log(game);
           this.game = game;
           this.cdr.markForCheck();
         },
